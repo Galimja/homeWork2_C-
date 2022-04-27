@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Admin\source\repos\HomeWork3\ClassLibrary\obj\Debug\ClassLibrary.pdb
