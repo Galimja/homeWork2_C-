@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\bin\Debug\ClassLibrary.dll
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CopyComplete
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\Admin\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
