@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\bin\Debug\ArrayLib.dll
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\bin\Debug\ArrayLib.pdb
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\obj\Debug\ArrayLib.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\obj\Debug\ArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\obj\Debug\ArrayLib.dll
+C:\Users\Admin\source\repos\HomeWork4\ArrayLib\obj\Debug\ArrayLib.pdb
