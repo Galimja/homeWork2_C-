@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\ArrayList1.txt
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\ArrayLib.dll
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\ArrayLib.pdb
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CopyComplete
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\Array2.txt
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\LoginPassword.txt
+C:\Users\Admin\source\repos\HomeWork4\HomeWork4\bin\Debug\Matrix.txt
