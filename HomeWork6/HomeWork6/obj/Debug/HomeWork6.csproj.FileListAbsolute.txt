@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe.config
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.pdb
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.exe
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.pdb
+C:\Users\Admin\source\repos\HomeWork6\HomeWork6\bin\Debug\students.csv
