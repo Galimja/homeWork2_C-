@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/GwcMJvyv3r1bYtfCzGudfY1gv5767+o+Z0FVOyv7BUn6Ncy82qxCD2euKXGUIKTkm3qVkbFvnb8o0zT4adDUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\HomeWork7\\HomeWork7\\HomeWork7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
